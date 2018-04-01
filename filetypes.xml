@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="b" type="Bash" />
       <mapping pattern="*frontend.css.php" type="CSS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern="*frontend.js.php" type="JavaScript" />
       <mapping pattern="Festival" type="JavaScript" />
