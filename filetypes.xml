@@ -13,6 +13,7 @@
       <mapping pattern="Autoload" type="PHP" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="rsync_pass" type="PLAIN_TEXT" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncIgnoreCoreModX" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
