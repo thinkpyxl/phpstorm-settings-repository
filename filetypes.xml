@@ -14,6 +14,7 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="rsync_pass" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncIgnoreCoreModX" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncIgnoreCoreMODX" type="PLAIN_TEXT" />
       <mapping pattern="hero-static.php" type="PLAIN_TEXT" />
