@@ -18,6 +18,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncIgnoreCoreMODX" type="PLAIN_TEXT" />
       <mapping pattern="hero-static.php" type="PLAIN_TEXT" />
+      <mapping ext="simple" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
