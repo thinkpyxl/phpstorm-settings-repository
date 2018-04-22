@@ -4,7 +4,7 @@
     <property name="created">2017-09-16T10:03:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2018-04-11T08:12:23</property>
+    <property name="modified">2018-04-22T16:05:53</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Inconsolata for Powerline" />
@@ -2703,7 +2703,7 @@
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="d07586" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
