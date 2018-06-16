@@ -32,6 +32,7 @@
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="Console.TableResult.CloneColumn" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
@@ -150,6 +151,9 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PublishGroup.DownloadFrom">
+    <keyboard-shortcut first-keystroke="shift meta alt d" />
+  </action>
   <action id="PublishGroup.UploadTo">
     <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
@@ -177,6 +181,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta add" />
   </action>
   <action id="RunJsbtTask" />
+  <action id="SearchAction" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -209,6 +214,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
     <keyboard-shortcut first-keystroke="meta alt tab" />
   </action>
+  <action id="UML.ShowChanges" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
