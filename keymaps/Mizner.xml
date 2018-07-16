@@ -105,9 +105,6 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
-  </action>
   <action id="FrameSwitchAction">
     <keyboard-shortcut first-keystroke="alt f2" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
@@ -134,6 +131,7 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="MinimizeCurrentWindow" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
@@ -161,10 +159,6 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta alt enter" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
   <action id="Refresh" />
   <action id="ReopenClosedTab">
@@ -194,6 +188,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="ShowUmlDiagram" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -220,6 +217,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="delete" />
