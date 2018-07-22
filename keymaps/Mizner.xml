@@ -37,6 +37,8 @@
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="ConvertIndentsToTabs">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -148,7 +150,9 @@
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="NextOccurence" />
   <action id="ParameterInfo" />
+  <action id="PreviousOccurence" />
   <action id="PublishGroup.DownloadFrom">
     <keyboard-shortcut first-keystroke="shift meta alt d" />
   </action>
