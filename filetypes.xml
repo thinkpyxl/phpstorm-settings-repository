@@ -21,6 +21,7 @@
       <mapping pattern=".rsyncIgnoreCoreMODX" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="hero-static.php" type="PLAIN_TEXT" />
+      <mapping ext="disabled" type="PLAIN_TEXT" />
       <mapping ext="simple" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="scs" type="PLAIN_TEXT" />
