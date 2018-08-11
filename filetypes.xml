@@ -12,6 +12,7 @@
       <mapping pattern="comments" type="PHP" />
       <mapping pattern="Autoload" type="PHP" />
       <mapping pattern=".htpass" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.production" type="PLAIN_TEXT" />
       <mapping pattern="rsync_pass" type="PLAIN_TEXT" />
       <mapping pattern="example" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncIgnoreCoreModX" type="PLAIN_TEXT" />
