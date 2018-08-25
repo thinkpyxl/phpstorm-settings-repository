@@ -1,0 +1,35 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="b" type="Bash" />
+      <mapping pattern="*frontend.css.php" type="CSS" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".editorconfig" type="Ini" />
+      <mapping pattern="*frontend.js.php" type="JavaScript" />
+      <mapping pattern="Festival" type="JavaScript" />
+      <mapping pattern="Sessions" type="JavaScript" />
+      <mapping ext="watch" type="JavaScript" />
+      <mapping pattern="comments" type="PHP" />
+      <mapping pattern="Autoload" type="PHP" />
+      <mapping pattern=".htpass" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.production" type="PLAIN_TEXT" />
+      <mapping pattern="rsync_pass" type="PLAIN_TEXT" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
+      <mapping pattern=".rsyncIgnoreCoreModX" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern=".rsyncIgnoreCoreMODX" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="hero-static.php" type="PLAIN_TEXT" />
+      <mapping ext="disabled" type="PLAIN_TEXT" />
+      <mapping ext="simple" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="scs" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
