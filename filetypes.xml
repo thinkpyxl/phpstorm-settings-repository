@@ -15,6 +15,7 @@
       <mapping pattern=".htaccess.production" type="PLAIN_TEXT" />
       <mapping pattern="rsync_pass" type="PLAIN_TEXT" />
       <mapping pattern="example" type="PLAIN_TEXT" />
+      <mapping pattern="PrivacyPolicy" type="PLAIN_TEXT" />
       <mapping pattern=".rsyncIgnoreCoreModX" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
