@@ -36,6 +36,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Console.TableResult.CloneColumn" />
+  <action id="Console.TableResult.ColumnsList">
+    <keyboard-shortcut first-keystroke="meta f12" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
@@ -106,10 +109,6 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta f12" />
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
   <action id="FrameSwitchAction">
     <keyboard-shortcut first-keystroke="alt f2" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
@@ -176,6 +175,10 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="Refresh" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -230,6 +233,9 @@
     <keyboard-shortcut first-keystroke="meta alt tab" />
   </action>
   <action id="UML.ShowChanges" />
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="meta f12" />
+  </action>
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
