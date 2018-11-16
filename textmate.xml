@@ -3,6 +3,7 @@
     <option name="bundles">
       <list>
         <BundleConfigBean>
+          <option name="enabled" value="false" />
           <option name="name" value="Ruby" />
           <option name="path" value="$USER_HOME$/Dropbox/phpstorm-helpers/ruby.tmbundle-master" />
         </BundleConfigBean>
@@ -11,21 +12,27 @@
     <option name="themesMapping">
       <map>
         <entry key="All hallow's eve" value="All Hallow's Eve" />
+        <entry key="Arc Dark" value="Mac Classic" />
         <entry key="Atom One Dark" value="Mac Classic" />
+        <entry key="Atom One Light" value="Mac Classic" />
         <entry key="Blackboard" value="Blackboard" />
         <entry key="Cobalt" value="Cobalt" />
         <entry key="Darcula" value="Darcula" />
         <entry key="Default" value="Mac Classic" />
         <entry key="Material Darker" value="Mac Classic" />
+        <entry key="Material Deep Ocean" value="Mac Classic" />
         <entry key="Material Lighter" value="Mac Classic" />
         <entry key="Material Mizner" value="Mac Classic" />
         <entry key="Material Monokai Pro" value="Mac Classic" />
         <entry key="Material Oceanic" value="Mac Classic" />
         <entry key="Material One Dark" value="Mac Classic" />
         <entry key="Material Palenight" value="Mac Classic" />
+        <entry key="Material Solarized Dark" value="Mac Classic" />
+        <entry key="Material Solarized Light" value="Mac Classic" />
         <entry key="Material Theme - Default" value="Mac Classic" />
         <entry key="Material Theme - Mizner New" value="Monokai" />
         <entry key="Monokai" value="Monokai" />
+        <entry key="Monokai Pro" value="Mac Classic" />
         <entry key="Railscasts" value="RailsCasts" />
         <entry key="Solarized Dark" value="Mac Classic" />
         <entry key="Solarized Light" value="Mac Classic" />

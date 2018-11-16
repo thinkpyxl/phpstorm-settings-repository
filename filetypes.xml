@@ -11,6 +11,7 @@
       <mapping ext="watch" type="JavaScript" />
       <mapping pattern="comments" type="PHP" />
       <mapping pattern="Autoload" type="PHP" />
+      <mapping pattern=".eslintrcWESBOS" type="PLAIN_TEXT" />
       <mapping pattern=".htpass" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.production" type="PLAIN_TEXT" />
       <mapping pattern="rsync_pass" type="PLAIN_TEXT" />
